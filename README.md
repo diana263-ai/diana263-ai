@@ -8,12 +8,13 @@
   - [Personal Loan Management System](https://github.com/diana263-ai/Personal-Loan-System.git)
   - [Pharmacy Retail System](https://github.com/diana263-ai/PharmacyRetail2.git)
   - [Revenue Collection System](https://github.com/diana263-ai/Revenue-Collection-System.git)
-  - [Bank Application Service)](https://github.com/diana263-ai/BankAPIs.git)
+  - [Bank Application Service](https://github.com/diana263-ai/BankAPIs.git)
 - <b>Java (Springboot) projects</b>
   - [Accounts Microservice](https://github.com/diana263-ai/Accounts-Microservice-Springboot.git)
   - [QuizApp Microservice](https://github.com/diana263-ai/QuizApp-Microservice-Springboot.git)
-  - [Library Management Sytem)](https://github.com/diana263-ai/Library-Management-System-Springboot-.git)
-  - [ToDo Application)](https://github.com/diana263-ai/ToDo-Application-Springboot.git)
+  - [Library Management Sytem](https://github.com/diana263-ai/Library-Management-System-Springboot-.git)
+  - [ToDo Application](https://github.com/diana263-ai/ToDo-Application-Springboot.git)
+  - [Banking Application](https://github.com/diana263-ai/Banking-Application---Springboot.git)
   - [User Authentication-Springboot](https://github.com/diana263-ai/User-Authentication-Springboot.git)
 - <b>Python</b>
   - [ML-Studies Recommender System](https://github.com/diana263-ai/ML-Studies-Recommender-System.git)
